@@ -16,7 +16,7 @@ Make sure you have the following installed on your computer:
 
 1. Clone the repository to your local machine:
    ```shell
-   git clone https://github.com/your-username/spin-dash.git
+   git clone https://github.com/C0d3Crush/spin-dash.git
    ```
 
 2. Build the game using your preferred C++ compiler and the necessary SDL2 dependencies.
